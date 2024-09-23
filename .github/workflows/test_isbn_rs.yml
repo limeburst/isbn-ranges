@@ -8,7 +8,7 @@ jobs:
     - name: checkout isbn-rs
       uses: actions/checkout@v2
       with:
-        repository: "philippeitis/isbn-rs"
+        repository: "limeburst/isbn-rs"
         path: "isbn-rs"  
     - name: checkout range messages
       uses: actions/checkout@v2
