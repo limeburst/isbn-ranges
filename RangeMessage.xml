@@ -17,8 +17,8 @@
 ]>
 <ISBNRangeMessage>
   <MessageSource>International ISBN Agency</MessageSource>
-  <MessageSerialNumber>45021164-b429-47d9-8fc8-0f49d572a7a4</MessageSerialNumber>
-  <MessageDate>Thu, 5 Mar 2026 10:25:03 GMT</MessageDate>
+  <MessageSerialNumber>b4460db0-308d-446b-b637-905ea761f712</MessageSerialNumber>
+  <MessageDate>Thu, 5 Mar 2026 10:47:12 GMT</MessageDate>
   <EAN.UCCPrefixes>
     <EAN.UCC>
       <Prefix>978</Prefix>
@@ -1759,11 +1759,11 @@
       <Agency>Brazil</Agency>
       <Rules>
         <Rule>
-          <Range>0000000-0199999</Range>
+          <Range>0000000-0299999</Range>
           <Length>2</Length>
         </Rule>
         <Rule>
-          <Range>0200000-2499999</Range>
+          <Range>0300000-2499999</Range>
           <Length>0</Length>
         </Rule>
         <Rule>
@@ -1779,11 +1779,11 @@
           <Length>0</Length>
         </Rule>
         <Rule>
-          <Range>5000000-6199999</Range>
+          <Range>5000000-6349999</Range>
           <Length>4</Length>
         </Rule>
         <Rule>
-          <Range>6200000-7999999</Range>
+          <Range>6350000-7999999</Range>
           <Length>0</Length>
         </Rule>
         <Rule>
@@ -1791,11 +1791,11 @@
           <Length>5</Length>
         </Rule>
         <Rule>
-          <Range>8182500-8264999</Range>
+          <Range>8182500-8199999</Range>
           <Length>0</Length>
         </Rule>
         <Rule>
-          <Range>8265000-8999999</Range>
+          <Range>8200000-8999999</Range>
           <Length>5</Length>
         </Rule>
         <Rule>
@@ -1803,11 +1803,11 @@
           <Length>6</Length>
         </Rule>
         <Rule>
-          <Range>9024500-9784999</Range>
+          <Range>9024500-9754999</Range>
           <Length>0</Length>
         </Rule>
         <Rule>
-          <Range>9785000-9999999</Range>
+          <Range>9755000-9999999</Range>
           <Length>6</Length>
         </Rule>
       </Rules>
