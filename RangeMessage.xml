@@ -17,8 +17,8 @@
 ]>
 <ISBNRangeMessage>
   <MessageSource>International ISBN Agency</MessageSource>
-  <MessageSerialNumber>3fd21371-b795-441e-ba9e-ceb40339cb67</MessageSerialNumber>
-  <MessageDate>Thu, 5 Mar 2026 16:08:27 GMT</MessageDate>
+  <MessageSerialNumber>d94ac488-8ff0-4704-9b93-bda755b4810b</MessageSerialNumber>
+  <MessageDate>Thu, 5 Mar 2026 18:17:23 GMT</MessageDate>
   <EAN.UCCPrefixes>
     <EAN.UCC>
       <Prefix>978</Prefix>
@@ -37,8 +37,12 @@
           <Length>2</Length>
         </Rule>
         <Rule>
-          <Range>6600000-6999999</Range>
+          <Range>6600000-6998999</Range>
           <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>6999000-6999999</Range>
+          <Length>5</Length>
         </Rule>
         <Rule>
           <Range>7000000-7999999</Range>
@@ -1809,6 +1813,28 @@
         <Rule>
           <Range>9755000-9999999</Range>
           <Length>6</Length>
+        </Rule>
+      </Rules>
+    </Group>
+    <Group>
+      <Prefix>978-69990</Prefix>
+      <Agency>Zambia registration group</Agency>
+      <Rules>
+        <Rule>
+          <Range>0000000-4999999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>5000000-5099999</Range>
+          <Length>2</Length>
+        </Rule>
+        <Rule>
+          <Range>5100000-9969999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>9970000-9999999</Range>
+          <Length>3</Length>
         </Rule>
       </Rules>
     </Group>
