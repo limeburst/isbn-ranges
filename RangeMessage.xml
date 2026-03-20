@@ -17,8 +17,8 @@
 ]>
 <ISBNRangeMessage>
   <MessageSource>International ISBN Agency</MessageSource>
-  <MessageSerialNumber>3c37d906-7e1c-4f97-ae96-6d7d836c1e5e</MessageSerialNumber>
-  <MessageDate>Fri, 20 Mar 2026 08:24:04 GMT</MessageDate>
+  <MessageSerialNumber>09dab404-00d1-4f23-82d6-ce77b46eeea5</MessageSerialNumber>
+  <MessageDate>Fri, 20 Mar 2026 08:45:57 GMT</MessageDate>
   <EAN.UCCPrefixes>
     <EAN.UCC>
       <Prefix>978</Prefix>
@@ -4519,6 +4519,36 @@
         <Rule>
           <Range>9500000-9999999</Range>
           <Length>5</Length>
+        </Rule>
+      </Rules>
+    </Group>
+    <Group>
+      <Prefix>978-9905</Prefix>
+      <Agency>Nepal</Agency>
+      <Rules>
+        <Rule>
+          <Range>0000000-1999999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>2000000-2399999</Range>
+          <Length>2</Length>
+        </Rule>
+        <Rule>
+          <Range>2400000-5999999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>6000000-6249999</Range>
+          <Length>3</Length>
+        </Rule>
+        <Rule>
+          <Range>6250000-9899999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>9900000-9999999</Range>
+          <Length>4</Length>
         </Rule>
       </Rules>
     </Group>
