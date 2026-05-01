@@ -17,8 +17,8 @@
 ]>
 <ISBNRangeMessage>
   <MessageSource>International ISBN Agency</MessageSource>
-  <MessageSerialNumber>a51ab5d7-636d-4e8f-9d52-da2857bec58a</MessageSerialNumber>
-  <MessageDate>Fri, 1 May 2026 14:04:17 BST</MessageDate>
+  <MessageSerialNumber>fc1e2ee6-ba17-4fca-9854-e41d31c9f65d</MessageSerialNumber>
+  <MessageDate>Fri, 1 May 2026 14:45:19 BST</MessageDate>
   <EAN.UCCPrefixes>
     <EAN.UCC>
       <Prefix>978</Prefix>
@@ -37,7 +37,11 @@
           <Length>2</Length>
         </Rule>
         <Rule>
-          <Range>6600000-6998999</Range>
+          <Range>6600000-6699999</Range>
+          <Length>2</Length>
+        </Rule>
+        <Rule>
+          <Range>6700000-6998999</Range>
           <Length>0</Length>
         </Rule>
         <Rule>
@@ -1825,6 +1829,24 @@
         <Rule>
           <Range>9755000-9999999</Range>
           <Length>6</Length>
+        </Rule>
+      </Rules>
+    </Group>
+    <Group>
+      <Prefix>978-66</Prefix>
+      <Agency>Federated Panel</Agency>
+      <Rules>
+        <Rule>
+          <Range>0000000-2999999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>3000000-3099999</Range>
+          <Length>2</Length>
+        </Rule>
+        <Rule>
+          <Range>3100000-9999999</Range>
+          <Length>0</Length>
         </Rule>
       </Rules>
     </Group>
