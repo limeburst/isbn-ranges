@@ -17,8 +17,8 @@
 ]>
 <ISBNRangeMessage>
   <MessageSource>International ISBN Agency</MessageSource>
-  <MessageSerialNumber>84380c5c-ae1d-4ce2-bad1-15c43f5c8827</MessageSerialNumber>
-  <MessageDate>Wed, 22 Jul 2026 10:01:59 BST</MessageDate>
+  <MessageSerialNumber>79948e69-0ad7-46cf-8d69-f2b12ea9da1b</MessageSerialNumber>
+  <MessageDate>Wed, 22 Jul 2026 12:15:52 BST</MessageDate>
   <EAN.UCCPrefixes>
     <EAN.UCC>
       <Prefix>978</Prefix>
@@ -4683,12 +4683,8 @@
       <Agency>Estonia</Agency>
       <Rules>
         <Rule>
-          <Range>0000000-1999999</Range>
+          <Range>0000000-3999999</Range>
           <Length>1</Length>
-        </Rule>
-        <Rule>
-          <Range>2000000-3999999</Range>
-          <Length>0</Length>
         </Rule>
         <Rule>
           <Range>4000000-6999999</Range>
