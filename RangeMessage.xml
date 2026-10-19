@@ -17,8 +17,8 @@
 ]>
 <ISBNRangeMessage>
   <MessageSource>International ISBN Agency</MessageSource>
-  <MessageSerialNumber>c3732997-4baf-4933-921a-fb62f87ca8c6</MessageSerialNumber>
-  <MessageDate>Mon, 19 Oct 2026 14:31:44 UTC</MessageDate>
+  <MessageSerialNumber>fe4753e9-9c74-40b6-b09c-ce0727a21fd7</MessageSerialNumber>
+  <MessageDate>Mon, 19 Oct 2026 20:08:19 UTC</MessageDate>
   <EAN.UCCPrefixes>
     <EAN.UCC>
       <Prefix>978</Prefix>
@@ -5423,8 +5423,20 @@
           <Length>3</Length>
         </Rule>
         <Rule>
-          <Range>8000000-9799999</Range>
+          <Range>8000000-8699999</Range>
           <Length>4</Length>
+        </Rule>
+        <Rule>
+          <Range>8700000-8999999</Range>
+          <Length>2</Length>
+        </Rule>
+        <Rule>
+          <Range>9000000-9299999</Range>
+          <Length>0</Length>
+        </Rule>
+        <Rule>
+          <Range>9300000-9799999</Range>
+          <Length>3</Length>
         </Rule>
         <Rule>
           <Range>9800000-9999999</Range>
